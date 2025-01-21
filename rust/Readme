@@ -1,0 +1,7 @@
+## Rust algorithms and datastructures
+
+### How to run
+Execute the below command in the rust directory.
+```bash
+cargo test
+```

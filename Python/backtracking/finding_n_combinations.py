@@ -14,7 +14,7 @@ def combosN(vector_input, N, vector_result, ind):
     return
   if len(vector_result) == 0 and ind > len(vector_input) - N:
     return
-  for item in vector_input):
+  for item in vector_input:
     index = 0
     vector_result.append(vector_input[index-1])
     if len(vector_result) == N:
